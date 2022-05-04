@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="next_activity">Перейти на следующую Activity</string>
+    <string name="alertdialog">Открыть AlertDialog</string>
+    <string name="fragment_lifecycle_Info">Информация о жизненном цикле фрагмента AlertDialog находится в Logcat по тегу \"Fragment LifeCycle:\"</string>
+</resources>
